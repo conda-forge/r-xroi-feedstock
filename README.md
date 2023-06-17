@@ -1,11 +1,11 @@
-About r-xroi
-============
+About r-xroi-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xroi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=xROI
 
 Package license: AGPL-3.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xroi-feedstock/blob/main/LICENSE.txt)
 
 Summary: Digital repeat photography and near-surface remote sensing have been used by environmental scientists to study the environmental change for nearly a decade. However, a user-friendly, reliable, and robust platform to extract color-based statistics and time-series from a large stack of images is still lacking. Here, we present an interactive open-source toolkit, called 'xROI', that facilitate the process time-series extraction and improve the quality of the final data. 'xROI' provides a responsive environment for scientists to interactively a) delineate regions of interest (ROI), b) handle field of view (FOV) shifts, and c) extract and export time series data characterizing image color (i.e. red, green and blue channel digital numbers for the defined ROI). Using 'xROI', user can detect FOV shifts without minimal difficulty. The software gives user the opportunity to readjust the mask files or redraw new ones every time an FOV shift occurs. 'xROI' helps to significantly improve data accuracy and continuity.
 
